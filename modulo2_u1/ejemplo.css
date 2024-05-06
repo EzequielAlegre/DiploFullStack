@@ -1,0 +1,24 @@
+.prueba{
+    column-count: 2;
+    
+}
+.caja{
+    width: 300px;
+    height:300px ;
+    /*background-color: yellow;*/
+    padding: 30px;
+    background: rgb(66,69,231);
+    background: linear-gradient(90deg, rgba(66,69,231,1) 0%, rgba(165,255,204,1) 16%, rgba(169,253,212,1) 30%, rgba(190,244,255,1) 49%, rgba(144,229,246,0.6783088235294117) 64%);
+    box-shadow: 10px 10px 5px black;
+    border-radius: 50px 10px ;
+}
+.text{
+    background-color: aquamarine;
+    column-count: 3;
+    column-gap: 50px;
+}
+.text p{
+    margin: 0;
+
+
+}

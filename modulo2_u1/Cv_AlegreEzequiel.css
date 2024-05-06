@@ -1,0 +1,47 @@
+h1{
+    background-color:cadetblue;
+    color: black;
+    text-align: center;
+
+}
+
+p{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.importante{
+    color:blue;
+    font-size: 22px;
+}
+/* agrego columnas*/
+
+.columnas{
+    column-count: 2;
+}
+#caja{
+   /* background-color: cadetblue;*/
+    width: 300px;
+    height: 350;
+    padding: 20px;
+    background: rgb(66,69,231);
+    background: linear-gradient(90deg, rgba(66,69,231,1) 0%, rgba(165,255,204,1) 16%, rgba(169,253,212,1) 30%, rgba(190,244,255,1) 49%, rgba(144,229,246,0.6783088235294117) 64%);
+
+    border: 10px solid black;   box-sizing: border-box;
+    border-radius: 50px 10px ;
+}
+
+#caja2{
+    /*background-color: cadetblue;*/
+    width: 300px;
+    height: 350;
+    padding: 20px;
+    background: rgb(66,69,231);
+    background: linear-gradient(90deg, rgba(66,69,231,1) 0%, rgba(165,255,204,1) 16%, rgba(169,253,212,1) 30%, rgba(190,244,255,1) 49%, rgba(144,229,246,0.6783088235294117) 64%);
+
+    border: 10px solid black;
+    box-sizing: border-box;
+    border-radius: 50px 10px ;
+  
+}
